@@ -23,8 +23,6 @@ skills.md
 1. Writing
 
 [Go back to home page](./README.md)
-code_sample.md
-
 
 ### HTML
 ```html
