@@ -65,16 +65,6 @@ I _like_ to visit these sites as hobby-
 [return to home](./README.md)
 marks.md
 
-# Academy Performance
-
-## My marks-
-
-| test | Maths | C language |
-| ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
-
 ## Video Game Statistics
 
 ![Rocekt League Stats](https://rocketleague.tracker.network/rocket-league/profile/epic/Zeptunee/overview)
